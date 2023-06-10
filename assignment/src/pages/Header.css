@@ -1,0 +1,17 @@
+.navbarContainer {
+    height: 100px;
+    width: 100%;
+    background-color: #F2F4F5;
+}
+
+.navbarOption{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.navbarText {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
