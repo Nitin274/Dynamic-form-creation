@@ -1,0 +1,20 @@
+.categoryListContainer {
+    height: 90vh;
+    width: 30%;
+    background-color: #406367;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.categoryList{
+    padding: 40px;
+}
+
+.selectedCategoryClass{
+    background-color: #7F9799;
+}
+
+.listText{
+    color: white;
+}

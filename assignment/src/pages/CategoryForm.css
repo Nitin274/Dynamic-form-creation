@@ -1,0 +1,47 @@
+.categoryFormContainer{
+     background-color: whitesmoke;
+     border: 1px solid black;
+     padding: 20px 20px 50px 20px;
+}
+
+.categoryHeading{
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 40px;
+    margin-top: 20px;
+}
+
+.categoryFormData{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 50px
+}
+
+.inputClass{
+    height: 40px;
+    width: 250px;
+    border: 1px solid #d8dfe0;
+    border-radius: 0 4px 4px 0;
+}
+
+.checkbox{
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+}
+
+.submitButton{
+    height: 40px;
+    width: max-content;
+    margin-top: 70px;
+    position: relative;
+    left: 50%;
+}
+
+.labelInputClass {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
